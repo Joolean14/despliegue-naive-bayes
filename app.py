@@ -1,5 +1,6 @@
 import pandas as pd
 import pickle
+import streamlit as st
 
 # Cargar el modelo entrenado
 filename = 'naive_bayes_model.pkl'
